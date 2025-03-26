@@ -45,7 +45,7 @@ function App() {
                 <a href="https://github.com/ChrisSolan/CalorieCounter" rel="noreferrer" target="_blank"><i class="devicon-github-original text-[30px]"/></a>
               </div>
             </div>
-            <p>A shopping website where I dive into Typescript and PostgreSQL using Prisma as the ORM. Deployed via docker container on Render (long initial load time).</p>
+            <p>A calorie and macro tracker webapp where I dive into the MERN stack and use tailwind css. Deployed via docker container on Render.</p>
                 
             <div className="icons space-x-5">
               <i class="devicon-mongodb-plain-wordmark text-[36px]"/>
