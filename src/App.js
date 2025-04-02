@@ -9,7 +9,7 @@ function App() {
           <h5 className="font-calibre text-lg">HELLO, I'M</h5>
           <h1 className="font-calibre font-semibold w-[250px] h-[100px] text-[60px] mx-32">Christopher</h1> 
           <h2 className="text-[#ED2939] font-calibre mb-8 w-[767px] h-[29px] text-2xl mx-[500px]">WEB DEVELOPER</h2>
-          <a href="https://docs.google.com/document/d/1n6YwyC_XvYdbbOKrq2oF0xEH5dTMFtwZSH29C7XkcvA/edit?usp=sharing" target="_blank" rel="noreferrer"> 
+          <a href="https://docs.google.com/document/d/1n8Er4Ywvrg0Cq5sXyIeVgY1KdpOwsR93/edit?usp=sharing&ouid=109782660004522581905&rtpof=true&sd=true" target="_blank" rel="noreferrer"> 
             <button className="rounded-full bg-[#ED2939] font-calibre h-[40px] w-[150px] text-white shadow-bottomRight mb-36 mt-4">MY RESUME!</button> 
           </a>
         </div>
